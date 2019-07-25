@@ -1,0 +1,26 @@
+html, body {
+    background: black;
+}
+
+body, button, input, select, textarea {
+    font-family: "Raleway";
+}
+
+.hero-body {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.output {
+    border-radius: 10px;
+    margin-top: 2rem;
+    background-color: #222;
+    padding: 20px;
+    font-family: "Inconsolata";
+    font-size: 1.2rem;
+    min-height: 500px;
+}
